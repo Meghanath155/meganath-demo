@@ -1,2 +1,3 @@
-# meganath-demo
-this is my first git
+# meghanath-demo
+this is my first Git Repository
+Author - Meghanath
